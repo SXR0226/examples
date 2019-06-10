@@ -1,0 +1,4 @@
+创建entity包，创建user，address实体类
+编写User和Address类内容
+创建repository包，创建持久化组件,建立addUserAddress方法，插入数据
+测试运行
